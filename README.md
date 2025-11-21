@@ -21,5 +21,10 @@ In the initial data preparation phase, we performed the following tasks:
 
 ### Exploratoty Data Analysis
 
- - Which genres were the most profitable these years?
- - Which actors were the most successful?
+ - 1. Which top 10 genres were the most profitable (Box) these years?
+ - 2. Which top 5 actors were the most successful?
+ - 3. Top 5 movies by Box and Budget?
+ - 4. Seasonality?
+
+### Results and Findings
+
