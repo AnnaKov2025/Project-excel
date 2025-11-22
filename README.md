@@ -28,3 +28,6 @@ In the initial data preparation phase, we performed the following tasks:
 
 ### Results and Findings
 
+As an example: Best profitable movie was: The Devil Inside with Budget of 1,000,000 USD, Box Office Revenue was 102,000,000 USD. The genre of this movie was horror. 
+
+
